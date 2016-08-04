@@ -1,0 +1,14 @@
+layout_spectrum: 0.5818336994852871
+typography_spectrum: 0.5387250746134669
+color:
+  brandStrength: 0.12928274553269148
+  lightness: 0.9306796453893185
+  saturation: 0.18372513493523002
+  rhythmicContrast: 0.6522900925483555
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Banana for Scale
