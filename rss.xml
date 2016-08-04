@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Banana for Scale]]></title>
+        <description><![CDATA[Banana for Scale]]></description>
+        <link>https://thegrid.ai/banana-for-scale/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 15:12:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/banana-for-scale/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Light painting with pixelstick]]></title>
+            <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/78163959</link>
+            <guid isPermaLink="false">de2c7c33-38be-4340-ab6c-28f48a3b81b0</guid>
+            <pubDate>Thu, 04 Aug 2016 15:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
+            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
+            <guid isPermaLink="false">af239166-e280-4146-a684-1d17f1d7804d</guid>
+            <pubDate>Thu, 04 Aug 2016 15:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paint With Fire Using This Virtual Reality App]]></title>
+            <description><![CDATA[<article><h1>Paint With Fire Using This Virtual Reality App</h1><p>Vocativ uses intelligent technology, smart journalists and the wisdom of the crowd to find story leads and angles no other news organization can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd2f9f55fd33825a34fcf74867bcde35fb76de.jpg"></article>]]></description>
+            <link>http://www.vocativ.com/316058/paint-with-fire-using-this-virtual-reality-app/</link>
+            <guid isPermaLink="false">d73efd0b-9feb-4293-ab75-45f18af0a771</guid>
+            <pubDate>Thu, 04 Aug 2016 15:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
+            <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
+            <link>http://www.inc.com/geoffrey-james/why-tesla-will-destroy-the-automobile-industry.html?cid=sf01002&amp;sr_share=facebook</link>
+            <guid isPermaLink="false">4341627b-eb61-444b-b15c-41049b381e80</guid>
+            <pubDate>Thu, 04 Aug 2016 15:12:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
