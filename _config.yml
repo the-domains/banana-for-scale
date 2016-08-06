@@ -1,29 +1,29 @@
-typography_spectrum: 0.24631728883832693
-color:
-  saturation: 0.16984732099808753
-  brandStrength: 0.018955425824970007
-  lightness: 0.7618001434020698
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.5254169320687652
-layout_spectrum: 0.35265343310311437
-name: Banana for Scale
+title: |
+  Banana For Scale
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: |
-  Banana For Scale
+color:
+  saturation: 0.1698473
+  brandStrength: 0.01895542582497001
+  lightness: 0.3763441
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.1756272
+typography_spectrum: 0.3691756
 description: Providing Context and Excitement
+layout_spectrum: 0.546595
+name: Banana for Scale
